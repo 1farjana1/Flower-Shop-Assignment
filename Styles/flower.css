@@ -1,0 +1,69 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+.header-part {
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 150px;
+}
+
+.section-container {
+    display: flex;
+    align-items: center;
+    margin: 0px 200px 0px 200px;
+    gap: 40px;
+    color: #272727;
+}
+
+.section-description {
+    margin-bottom: 32px;
+}
+
+.section-title {
+    color: #272727;
+    font-size: 50px;
+}
+
+.btn-pink {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+}
+
+.section-img {
+    width: 635px;
+    height: 700px;
+    margin-top: 50px;
+    margin-bottom: -5px;
+}
+
+/* features part styles */
+
+.feature-part {
+    text-align: center;
+}
+
+.feature-title {
+    font-size: 30px;
+}
+
+.flowers-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flowers-info {
+    display: flex;
+    gap: 250px;
+    align-items: center;
+    justify-content: center;
+}
